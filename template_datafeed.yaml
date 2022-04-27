@@ -55,8 +55,6 @@ dataset_fields:
   label: Classification Code
   preset: select
   choices:
-  - value: def
-    label: DEF
   - value: cur
     label: CUR
   - value: man

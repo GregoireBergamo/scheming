@@ -16,16 +16,16 @@ dataset_fields:
 - field_name: tag_string
   label: Tags
   preset: tag_string_autocomplete
-  form_placeholder: eg. esg, tech, governance
+  form_placeholder: eg. economical, tech, governance
 
 - field_name: provided_by
   label: Provided by
   preset: select
   choices: 
-  - value: bloomberg
-    label: Bloomberg
-  - value: markit
-    label: Markit 
+  - value: provider1
+    label: Provider 1
+  - value: provider2
+    label: Provider 2 
     
 - field_name: definition
   label: Definition

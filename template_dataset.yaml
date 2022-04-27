@@ -126,14 +126,14 @@ dataset_fields:
   label: Distributed to
   preset: multiple_checkbox
   choices: 
-  - value: esg
-    label: ESG
-  - value: idw
-    label: IDW
-  - value: ti
-    label: TI
-  - value: edm
-    label: EDM
+  - value: product1
+    label: Product 1
+  - value: product2
+    label: Product 2
+  - value: product3
+    label: Product 3
+  - value: product4
+    label: Product 4
 
 resource_fields:
 
